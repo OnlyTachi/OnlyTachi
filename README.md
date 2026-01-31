@@ -12,7 +12,7 @@ Atualmente mantenho um ecossistema autohospedado focado em utilidade e aprendiza
 * **Networking:** VPN Mesh via **Tailscale**
 * **IA Local:** Modelos LLM rodando via **Ollama**
 > [!TIP]
-> [🖥️ Veja meu setup ](https://github.com/OnlyTachi/OnlyTachi/blob/main/SETUP.md)
+> [🖥️ Veja meu setup ](./SETUP.md)
 
 ### 📂 Projetos em Destaque
 * **🤖 [SamBot](https://github.com/OnlyTachi/SamBot):** Agente híbrido para Discord (Gemini + Ollama) com memória RAG.
