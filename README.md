@@ -29,9 +29,3 @@ Atualmente mantenho um ecossistema autohospedado focado em utilidade e aprendiza
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
-
-<p align="center">
-  <img width="100%" src="https://nirzak-streak-stats.vercel.app/?user=OnlyTachi&theme=catppuccin_mocha" />
-</p>
-
----
